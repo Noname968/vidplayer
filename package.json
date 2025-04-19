@@ -12,7 +12,7 @@
   "dependencies": {
     "@vidstack/react": "^1.9.8",
     "artplayer": "^5.1.1",
-    "hls.js": "^1.5.7",
+    "hls.js": "1.5.20",
     "lucide-react": "^0.344.0",
     "media-icons": "^1.0.0",
     "react": "^18.3.1",
