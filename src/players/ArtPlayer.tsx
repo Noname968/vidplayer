@@ -27,7 +27,6 @@ export default function ArtPlayerComponent({ src }: ArtPlayerProps) {
       pip: true,
       theme: '#23ade5',
       lang: navigator.language.toLowerCase(),
-      whitelist: ['*'],
       type: src.includes('.m3u8') ? 'm3u8' : undefined,
     });
 
